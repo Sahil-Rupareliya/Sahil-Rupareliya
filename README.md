@@ -1,5 +1,5 @@
 ### Hi there 👋
-[logo](https://github.com/Sahil-Rupareliya/Sahil-Rupareliya/blob/main/Sahil%20Rupareliya.png)
+![logo](https://github.com/Sahil-Rupareliya/Sahil-Rupareliya/blob/main/Sahil%20Rupareliya.png)
 <h1 align="center">Hi 👋, I'm Sahil Rupareliya</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
