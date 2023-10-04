@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Rupareliya</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Sahil-Rupareliya/Sahil-Rupareliya/assets/136809078/3cea58c1-2752-45aa-b696-8114a637b10c">
+<img align="right" alt="coding" width="400" src="https://wallpapercave.com/uwp/uwp2493552.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-rupareliya&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-rupareliya" /> </p>
 
