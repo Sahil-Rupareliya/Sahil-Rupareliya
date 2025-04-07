@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-rupareliya&show_icons=true&locale=en&layout=compact" alt="sahil-rupareliya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-rupareliya&show_icons=true&locale=en" alt="sahil-rupareliya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-rupareliya&" alt="sahil-rupareliya" /></p>
