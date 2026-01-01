@@ -1,14 +1,25 @@
-## Sahil Rupareliya
-Blockchain & Full-Stack Developer
+Hi, I’m Sahil 👋  
+Senior Blockchain & Full-Stack Developer
 
-I specialize in building Web3 systems including:
-- Smart contracts (DeFi, staking, bridges, games)
-- DEX platforms (Uniswap v2/v3 style)
-- Web3 wallets and integrations
-- Trading bots and on-chain automation
-- Telegram Mini Apps with blockchain rewards
+I specialize in building production-grade Web3, DeFi, and backend systems for startups and enterprises.
 
-Most of my work is under NDA or private client repositories.
-This GitHub is intentionally limited to protect client IP.
+🔒 Note on Repositories  
+Most of my professional work lives in private repositories due to:
+- Client NDAs
+- Proprietary trading logic
+- Financial & security-sensitive smart contracts
 
-Portfolio and live projects are available on my Upwork profile.
+What I Work On:
+- Smart Contracts (Solidity, Foundry, Hardhat)
+- DeFi systems (DEXs, Bridges, Flash Loans, Arbitrage)
+- Web3 Backends (Node.js, Golang, PostgreSQL)
+- Telegram Mini Apps & Bots
+- Full-stack Web3 platforms (Next.js + Blockchain)
+
+Public Showcase:
+- Architecture samples
+- Utility scripts
+- Documentation & system designs
+- Personal experiments and tooling
+
+If you’re a recruiter or client and need code samples, I’m happy to share **select snippets or walkthroughs** privately.
